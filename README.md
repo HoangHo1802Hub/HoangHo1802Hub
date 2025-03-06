@@ -33,8 +33,8 @@
 ###
 
 <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=HoangHo1802Hub&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="170" alt="stats graph" marginmargin-bottom: 20px/><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HoangHo1802Hub&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="90" alt="languages graph"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=HoangHo1802Hub&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="170" alt="stats graph" marginmargin-bottom: 50px/><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HoangHo1802Hub&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="100" alt="languages graph"  />
 </div>
 
 ###
